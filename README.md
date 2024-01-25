@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋🏻 Techies, I'am Banuprakash 😊 </h1>
 <h3 align="center">A passionate 📊 Data Science and 💻 Machine Learning Aspirant from Tamil Nadu,India.📍</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
+<h3 align="left">On prograss:</h3>
+
 - 👨🏻‍💻 I’m currently learning Natural Language Processing (NLP) and Deep Learning
-<h3 align="left">Connect with me:</h3>
+- 
+<h4 align="left">Connect with me:</h4>
 
 - 📧e-mail   : [banuprakashmec@gmail.com](banuprakashmec@gmail.com)
 - 🔗Linkedin : [Banuprakash Vellingiri](https://www.linkedin.com/in/banuprakashvellingiri)
