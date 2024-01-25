@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻 Techies, I'am Banuprakash 😊 </h1>
-<h3 align="center">A passionate 📊 Data Science and 💻 Machine Learning Aspirant from Tamil Nadu,India📍.</h3>
+<h3 align="center">A passionate 📊 Data Science and 💻 Machine Learning Aspirant from Tamil Nadu,India.📍</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 - 👨🏻‍💻 I’m currently learning Natural Language Processing (NLP) and Deep Learning
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +17,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banuprakash-vellingiri&" alt="banuprakash-vellingiri" /></p>
 
-- 📫 How to reach me through linkedin (https://www.linkedin.com/in/banuprakashvellingiri)
 
 <!---
 Banuprakash-Vellingiri/Banuprakash-Vellingiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
