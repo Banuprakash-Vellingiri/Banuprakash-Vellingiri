@@ -4,7 +4,8 @@
 
 - 👨🏻‍💻 I’m currently learning **NLP,Deep Learning**
 
-- 📧 How to reach me **banuprakashmec@gmail.com**
+- 📧 Mail me through **banuprakashmec@gmail.com**
+- reach me through linkedin [Banu](https://www.linkedin.com/in/banuprakashvellingiri)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
