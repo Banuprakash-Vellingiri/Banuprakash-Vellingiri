@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻 Techies, I'm Banuprakash 😊 </h1>
-<h3 align="center">A passionate 📊 Data Science and 💻 Machine Learning Aspirant from Tamil Nadu,India.📍</h3>
+<h3 align="center">A Passionate 📊 Data Science and 💻 Machine Learning Aspirant from Tamil Nadu,India.📍</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 <h3 align="left">⌛On Progress:</h3>
 
