@@ -20,7 +20,7 @@
 
 <h3 align="left">🤝Connect with me:</h3>
 
-- 📧e-mail   : [banuprakashmec@gmail.com](banuprakashmec@gmail.com)
+- 📧Email   : [banuprakashmec@gmail.com](banuprakashmec@gmail.com)
 - 🔗Linkedin : [Banuprakash Vellingiri](https://www.linkedin.com/in/banuprakashvellingiri)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banuprakash-vellingiri&" alt="banuprakash-vellingiri" /></p>
