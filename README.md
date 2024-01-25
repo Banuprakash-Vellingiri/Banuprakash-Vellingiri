@@ -4,8 +4,8 @@
 - 👨🏻‍💻 I’m currently learning Natural Language Processing (NLP) and Deep Learning
 <h3 align="left">Connect with me:</h3>
 
-- 📧e-mail   :[banuprakashmec@gmail.com](banuprakashmec@gmail.com)
-- 🔗Linkedin :[Banuprakash Vellingiri](https://www.linkedin.com/in/banuprakashvellingiri)
+- 📧e-mail   : [banuprakashmec@gmail.com](banuprakashmec@gmail.com)
+- 🔗Linkedin : [Banuprakash Vellingiri](https://www.linkedin.com/in/banuprakashvellingiri)
 
 
 
