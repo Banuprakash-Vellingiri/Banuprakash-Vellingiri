@@ -2,10 +2,10 @@
 <h3 align="center">A passionate 📊 Data Science and 💻 Machine Learning Aspirant from Tamil Nadu,India📍.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 <h3 align="left">Connect with me:</h3>
-- 👨🏻‍💻 I’m currently learning **NLP,Deep Learning**
-
-- 📧 Mail : **banuprakashmec@gmail.com**
-- 🔗 linkedin [Banuprakash Vellingiri](https://www.linkedin.com/in/banuprakashvellingiri)
+- 👨🏻‍💻 I’m currently learning **Natural Language Processing (NLP) and Deep Learning**
+-
+- 📧 e-mail : **banuprakashmec@gmail.com**
+- 🔗 Linkedin [Banuprakash Vellingiri](https://www.linkedin.com/in/banuprakashvellingiri)
 
 
 
