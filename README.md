@@ -7,7 +7,7 @@
 
 <h3 align="left">⚙️Languages and Tools:</h3>
 
-- Python (Pandas,Numpy,Matplotlib,Seaborn)
+- Python (Pandas,NumPy,Matplotlib,Seaborn)
 - MYSQL
 - Machine Learning (Scikit Learn)
 - Excel
