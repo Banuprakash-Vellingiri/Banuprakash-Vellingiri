@@ -22,7 +22,9 @@
 
 - 📧Email   : [banuprakashmec@gmail.com](banuprakashmec@gmail.com)
 - 🔗Linkedin : [Banuprakash Vellingiri](https://www.linkedin.com/in/banuprakashvellingiri)
+https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1500&name=AI%20and%20Deep%20Learning.gif
 
+<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/v2/resize:fit:679/1*YCrp0Z8mAOe2IUV9XmlEDw.gif](https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1500&name=AI%20and%20Deep%20Learning.gif)">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banuprakash-vellingiri&" alt="banuprakash-vellingiri" /></p>
 
 
