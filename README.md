@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 - 👨🏻‍💻 I’m currently learning Natural Language Processing (NLP) and Deep Learning
 <h3 align="left">Connect with me:</h3>
-- 📧 e-mail   : **banuprakashmec@gmail.com**
+- 📧 e-mail   : (banuprakashmec@gmail.com)
 - 🔗 Linkedin : [Banuprakash Vellingiri](https://www.linkedin.com/in/banuprakashvellingiri)
 
 
