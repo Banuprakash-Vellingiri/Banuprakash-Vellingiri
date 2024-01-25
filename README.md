@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🏻 Techies, Myself Banuprakash 😊 </h1>
-<h3 align="center">A passionate 📊 **Data Science** and 💻 **Machine Learning** Aspirant from Tamil Nadu,India📍.</h3>
+<h1 align="center">Hi 👋🏻 Techies, I'am Banuprakash 😊 </h1>
+<h3 align="center">A passionate 📊 Data Science and 💻 Machine Learning Aspirant from Tamil Nadu,India📍.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 
 - 👨🏻‍💻 I’m currently learning **NLP,Deep Learning**
