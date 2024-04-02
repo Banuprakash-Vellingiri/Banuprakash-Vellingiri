@@ -23,6 +23,7 @@
 
 - 📧Email   : [banuprakashmec@gmail.com](banuprakashmec@gmail.com)
 - 🔗Linkedin : [Banuprakash Vellingiri](https://www.linkedin.com/in/banuprakashvellingiri)
+- kaggle : [Banuprakash V](https://www.kaggle.com/banuprakashv)
 
 
 
