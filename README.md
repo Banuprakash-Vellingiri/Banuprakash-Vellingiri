@@ -10,7 +10,9 @@
 
 - Python (Pandas,NumPy,Matplotlib,Seaborn)
 - MYSQL
-- Machine Learning (Scikit Learn)
+- Machine Learning (Scikit-Learn)
+- Deep learning (Tensor flow)
+- Natural Language Processing (NLP)
 - Excel
 - Power BI
 - Web Scraping (Selenium)
